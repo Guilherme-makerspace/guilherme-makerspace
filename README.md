@@ -23,6 +23,13 @@ Busco uma oportunidade como **programador back-end** em uma empresa que promova 
 
 - Curso Técnico em Desenvolvimento de Sistemas - Escola SENAI (Em andamento)
 
+## 📃 Cursos Complementares
+
+- Implementação de Serviços em Nuvem - Microsoft AZ-900 - Escola SENAI (2025 - 40h)
+- Implementação de Serviços em Nuvem - AWS Cloud Practitioner Foundational - Escola SENAI (2025 - 40h)
+- FluêncIA - Fundamentos da Inteligência Artificial - Escola SENAI (2025 - 8h)
+- Fundamentos do Python 1 - Escola SENAI (2025 - 30h)
+
 <!--
 **Guilherme-makerspace/Guilherme-makerspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
