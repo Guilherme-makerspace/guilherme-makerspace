@@ -6,6 +6,7 @@
 - Idade: 16 anos
 - Cidade: Presidente Prudente - SP
 - GitHub: https://github.com/guilherme-makerspace/guilherme-makerspace.git
+- LinkedIn: https://www.linkedin.com/in/guilherme-araujo-0877b3395/
 <!--
 **Guilherme-makerspace/Guilherme-makerspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
