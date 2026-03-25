@@ -30,6 +30,21 @@ Busco uma oportunidade como **programador back-end** em uma empresa que promova 
 - FluêncIA - Fundamentos da Inteligência Artificial - Escola SENAI (2025 - 8h)
 - Fundamentos do Python 1 - Escola SENAI (2025 - 30h)
 
+## 👍 Qualidades
+
+- Rápida adaptação
+- Organização
+- Comprometimento
+- Curiosidade
+- Autonômia
+
+## 👎 Ponto a Melhorar
+
+- Antecipação exarcebada
+- Perfeccionismo
+- Comunicação não-verbal
+- Inexorabilidade exarcebada
+
 ## 🔍 Áreas de Interesse
 
 - MIT Maker Portifolio
@@ -37,6 +52,18 @@ Busco uma oportunidade como **programador back-end** em uma empresa que promova 
 - Engenharia de Software
 - Exatas (Focado especialmente em Física e  Matemática)
 
+## 🎮 Hobbies
+
+- Jogos Desktop
+- Vídeos sobre tecnologia
+- Livros com aventura e apreciação
+
+## 🦾 Metas Pessoais
+
+- Aperfeiçoar a fala e leitura de outras linguas (Alemão e Japonês)
+- Construir projetos de robótica transformadores
+- Continuar no ramo profissional em tecnologia
+- Experenciar didáticas de outros paises
 
 <!--
 **Guilherme-makerspace/Guilherme-makerspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
